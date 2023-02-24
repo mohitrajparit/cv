@@ -21,7 +21,7 @@ h1,h3,h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px;
     position: absolute;
-    right: 7%;
+    right: 5%;
     /* position: fixed; */
     background-color: solid rgb(14, 238, 238);
 }
