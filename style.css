@@ -1,4 +1,38 @@
-*{
+*{}
+body{
+    margin: 2px;padding: 2px;
+    background-color: #E3FDFD;  
+    font-family: Comfortaa,system-ui;
+    font-size: larger;
+}
+hr{
     background-color: #E3FDFD;
-    
+    border-style: none;
+    border-top-style   : dotted;
+    width: 10%;
+    height: 0;
+    border-color: gray;
+    border-width: 5px;
+}
+h1,h3,h2{
+    color: #16afaf;
+}
+#table01{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    /* position: fixed; */
+    background-color: solid rgb(14, 238, 238);
+}
+.id1{
+    color: #16afaf;
+    font-size: larger;
+}
+#Skills{
+    color: #16afaf;
+}
+#Skills,ul{
+    list-style: disc;
+}
+#Hobbies,ul{
+    list-style: disc;
 }
